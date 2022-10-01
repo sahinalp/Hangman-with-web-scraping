@@ -1,0 +1,4 @@
+PyQt5
+sys
+selenium
+Firefox(for selenium)
